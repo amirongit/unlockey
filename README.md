@@ -1,4 +1,4 @@
-<p align="center"><img maxwidth=250 src="./graphics/unlockey_logo.png"></p>
+<p align="center"><img maxwidth=250 src="./logo/unlockey_logo.png"></p>
 
 # Unlockey
 
