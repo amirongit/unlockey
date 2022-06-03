@@ -17,7 +17,11 @@ those who aren't lucky and are locked up within the wrong borders. That's where
 the name is coming from, it's coming from an exhausion which is the result of
 being blocked from within and being banned from outside.
 
+## Credits
+- [base16](https://github.com/chriskempson/base16)
+- [iosevka](https://github.com/be5invis/Iosevka)
+
 ## Want to contribute?
 
 I would appreciate **any** contribution.<br>
-my E-mail: amirthehossein@gmail.com
+My Email: amirthehossein@gmail.com
